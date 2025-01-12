@@ -11,13 +11,21 @@ BATCH DURATION:20 december to 20 january 2025
 MENTOR:santhosh kumar
 
 Overview of the project.
+
+
+
+
+
 ![chart](https://github.com/user-attachments/assets/cdef14d5-1d70-4371-b85e-fab5bddc8ad2)
+
+
+
+
 
 
 
 Automated Report Generation Project
 
-Overview
 
 The Automated Report Generation project involves developing a Python script that processes data from a file, analyzes it, and generates a formatted PDF report. This report provides insights into the data and presents it in a professional, easy-to-read format. The script uses libraries such as FPDF or ReportLab to create the PDF, offering full control over the document's layout, styling, and content.
 
@@ -74,6 +82,3 @@ Results
 The project automates the process of generating professional PDF reports from data, making it useful for tasks like business reporting, financial analysis, academic research, and more. The generated reports are easy to share and can be customized to suit specific presentation needs.
 
 
----
-
-This README overview provides a clear description of the project's scope, deliverables, and steps to run it. It will help users understand the purpose of the project and how to generate automated reports with the provided script.
